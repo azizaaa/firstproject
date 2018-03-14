@@ -1,0 +1,22 @@
+{
+  "career":{
+    "data":"career objective"
+  },
+  "education":[
+    {
+      "degree":"B-Tech(C.S.E)",
+      "college":"SVCET",
+      "data":["2015-19","70%"]
+    },
+    {
+      "degree":"intermediate Nobel",
+      "college":"SVCET",
+      "data":["2013-15","81%"]
+    },
+    {
+      "degree":"s.c.c",
+      "college":"sitams college",
+      "data":["2010-12","91%"]
+    }
+  ]
+}
